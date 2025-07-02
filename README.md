@@ -1,2 +1,3 @@
-# PTNCT
-Penetration Testing Notes on Cherry Tree
+# VAPT
+
+Vulnerability Assessment and Penetration Testing Notes on Cherry Tree
