@@ -1,1 +1,23 @@
-.Note.ctx*
+# Ignore CherryTree backup/temp files
+*.ctx~
+*~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore log files
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VSCode/IDE settings
+.vscode/
+.idea/
+
+# Ignore OS generated files
+ehthumbs.db
